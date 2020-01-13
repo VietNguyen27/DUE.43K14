@@ -1,4 +1,7 @@
-﻿USE master;  
+﻿
+---Phan Van Phuc
+---Phuc da comment
+USE master;  
 GO  
 IF DB_ID (N'Bank') IS NOT NULL  
 DROP DATABASE Bank;  
