@@ -1,6 +1,8 @@
 ﻿
 ---Phan Van Phuc
 ---Phuc da comment
+
+--Việt
 USE master;  
 GO  
 IF DB_ID (N'Bank') IS NOT NULL  
